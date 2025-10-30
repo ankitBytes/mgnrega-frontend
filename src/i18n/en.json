@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "MGNREGA Analytics Dashboard",
+    "tagline": "Mahatma Gandhi National Rural Employment Guarantee Act"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "trends": "Trends",
+    "language": "Language"
+  },
+  "home": {
+    "welcome": "Welcome to MGNREGA Analytics",
+    "description": "Track and analyze employment data, project progress, and financial metrics across rural India.",
+    "getStarted": "Get Started",
+    "viewDashboard": "View Dashboard",
+    "features": {
+      "title": "Key Features",
+      "realTime": "Real-time Data",
+      "realTimeDesc": "Access up-to-date employment and project statistics",
+      "analytics": "Advanced Analytics",
+      "analyticsDesc": "Comprehensive data visualization and trend analysis",
+      "accessibility": "Accessible Design",
+      "accessibilityDesc": "WCAG 2.1 compliant interface for all users",
+      "multilingual": "Multilingual Support",
+      "multilingualDesc": "Available in English and Hindi languages"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard Overview",
+    "metrics": {
+      "totalWorkers": "Total Workers",
+      "activeProjects": "Active Projects",
+      "fundsAllocated": "Funds Allocated",
+      "fundsUtilized": "Funds Utilized",
+      "completionRate": "Completion Rate",
+      "avgWageDays": "Average Wage Days"
+    },
+    "filters": {
+      "state": "Select State",
+      "district": "Select District",
+      "year": "Select Year",
+      "apply": "Apply Filters",
+      "reset": "Reset"
+    },
+    "loading": "Loading dashboard data...",
+    "error": "Error loading data. Please try again."
+  },
+  "trends": {
+    "title": "Employment Trends",
+    "subtitle": "Analyze employment patterns and project completion trends",
+    "charts": {
+      "monthlyEmployment": "Monthly Employment Statistics",
+      "projectCompletion": "Project Completion Rate",
+      "fundUtilization": "Fund Utilization Trends",
+      "stateComparison": "State-wise Comparison"
+    },
+    "labels": {
+      "month": "Month",
+      "workers": "Workers",
+      "projects": "Projects",
+      "amount": "Amount (₹ Crores)",
+      "percentage": "Percentage (%)"
+    },
+    "periods": {
+      "monthly": "Monthly",
+      "quarterly": "Quarterly",
+      "yearly": "Yearly"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "print": "Print",
+    "refresh": "Refresh",
+    "noData": "No data available",
+    "currency": "₹"
+  },
+  "footer": {
+    "copyright": "© 2025 MGNREGA Analytics. All rights reserved.",
+    "links": {
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content",
+    "screenReaderOnly": "This content is for screen readers only",
+    "expandMenu": "Expand navigation menu",
+    "collapseMenu": "Collapse navigation menu"
+  }
+}
